@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "bd_automotriz_postventa/1.0.0": {
+        "runtime": {
+          "bd_automotriz_postventa.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "bd_automotriz_postventa/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

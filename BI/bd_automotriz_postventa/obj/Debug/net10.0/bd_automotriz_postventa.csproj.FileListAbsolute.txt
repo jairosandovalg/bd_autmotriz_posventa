@@ -1,0 +1,15 @@
+D:\DataScienceResearchPeru\bd_autmotriz_posventa\BI\bd_automotriz_postventa\bin\Debug\net10.0\bd_automotriz_postventa.exe
+D:\DataScienceResearchPeru\bd_autmotriz_posventa\BI\bd_automotriz_postventa\bin\Debug\net10.0\bd_automotriz_postventa.deps.json
+D:\DataScienceResearchPeru\bd_autmotriz_posventa\BI\bd_automotriz_postventa\bin\Debug\net10.0\bd_automotriz_postventa.runtimeconfig.json
+D:\DataScienceResearchPeru\bd_autmotriz_posventa\BI\bd_automotriz_postventa\bin\Debug\net10.0\bd_automotriz_postventa.dll
+D:\DataScienceResearchPeru\bd_autmotriz_posventa\BI\bd_automotriz_postventa\bin\Debug\net10.0\bd_automotriz_postventa.pdb
+D:\DataScienceResearchPeru\bd_autmotriz_posventa\BI\bd_automotriz_postventa\obj\Debug\net10.0\bd_automotriz_postventa.GeneratedMSBuildEditorConfig.editorconfig
+D:\DataScienceResearchPeru\bd_autmotriz_posventa\BI\bd_automotriz_postventa\obj\Debug\net10.0\bd_automotriz_postventa.AssemblyInfoInputs.cache
+D:\DataScienceResearchPeru\bd_autmotriz_posventa\BI\bd_automotriz_postventa\obj\Debug\net10.0\bd_automotriz_postventa.AssemblyInfo.cs
+D:\DataScienceResearchPeru\bd_autmotriz_posventa\BI\bd_automotriz_postventa\obj\Debug\net10.0\bd_automotriz_postventa.csproj.CoreCompileInputs.cache
+D:\DataScienceResearchPeru\bd_autmotriz_posventa\BI\bd_automotriz_postventa\obj\Debug\net10.0\bd_automotriz_postventa.sourcelink.json
+D:\DataScienceResearchPeru\bd_autmotriz_posventa\BI\bd_automotriz_postventa\obj\Debug\net10.0\bd_automotriz_postventa.dll
+D:\DataScienceResearchPeru\bd_autmotriz_posventa\BI\bd_automotriz_postventa\obj\Debug\net10.0\refint\bd_automotriz_postventa.dll
+D:\DataScienceResearchPeru\bd_autmotriz_posventa\BI\bd_automotriz_postventa\obj\Debug\net10.0\bd_automotriz_postventa.pdb
+D:\DataScienceResearchPeru\bd_autmotriz_posventa\BI\bd_automotriz_postventa\obj\Debug\net10.0\bd_automotriz_postventa.genruntimeconfig.cache
+D:\DataScienceResearchPeru\bd_autmotriz_posventa\BI\bd_automotriz_postventa\obj\Debug\net10.0\ref\bd_automotriz_postventa.dll
